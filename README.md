@@ -2,6 +2,8 @@
 
 ## Overview
 This project involves the creation of a Business Intelligence (BI) dashboard using Power BI on a retail dataset. The dashboard provides comprehensive insights into various aspects of retail operations such as sales performance, product trends, customer behavior, and more. The findings from the dashboard were presented to the Chief Executive Officer (CEO) and Chief Marketing Officer (CMO) for strategic decision-making.
+![dashboard](bidash.png)
+
 
 ## Files Included
 - **tataviz.pbix**: Power BI file containing the interactive dashboard.
